@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio 
 
 Autor: Rubén Ramírez
 Fecha: 5 de febrero
